@@ -1,0 +1,710 @@
+@charset "utf-8";
+#conteiner {
+	height: auto;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#temizle {
+	clear: both;
+}
+#altbilgi {
+	line-height: 50px;
+	height: 50px;
+	width: 1000px;
+	margin-top: 10px;
+	background-color: #000;	
+}
+
+
+#baslik {
+	background-image: url(resimler/banner.PNG);
+	height: 300px;
+	width: 1000px;
+}
+#menu {
+	height: 40px;
+	width: 1000px;
+	margin-top: 8px;
+	background-image: url(resimler/duvar.jpg);
+}
+
+
+#resim1 {
+	background: url(resimler/bal.jpg);
+	float: left;
+	height: 400px;
+	width: 300px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+#resim1:hover {
+	background:url(resimler/ball.jpg)
+}
+
+
+
+#resim2 {
+	background-image: url(resimler/halu.jpg);
+	float: left;
+	height: 400px;
+	width: 300px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 35px
+}
+#resim2:hover {
+	background:url(resimler/haluu.jpeg)
+}
+ 
+
+#resim3 {
+	background-image: url(resimler/yapay.jpg);
+	float: left;
+	height: 400px;
+	width: 300px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 35px
+}
+#resim3:hover {
+	background:url(resimler/yapayy.jpg)
+}
+
+
+
+#resim4 {
+	background-image: url(resimler/stefan.jpg);
+	float: left;
+	height: 400px;
+	width: 300px;
+	margin-top: 15px;
+	margin-right: 10px;
+	
+}
+#resim4:hover {
+	background:url(resimler/stefann.jpg)
+}
+
+
+
+#resim5 {
+	background-image: url(resimler/canan.jpg);
+	float: left;
+	height: 400px;
+	width: 300px;
+	margin-top: 15px;
+	margin-right: 10px;
+	margin-left: 35px
+}
+#resim5:hover {
+	background:url(resimler/canann.jpg)
+}
+    
+   
+
+#resim6 {
+	background-image: url(resimler/tren.jpg);
+	float: left;
+	height: 400px;
+	width: 300px;
+	margin-top: 15px;
+	margin-right: 10px;
+	margin-left: 35px
+}
+#resim6:hover {
+	background:url(resimler/trenn.jpg)
+}
+.NU {
+	font-weight: bold;
+	color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 36px;
+	text-align: center;
+}
+.nuu {
+	font-size: 24px;
+}
+.nuu {
+	font-weight: bold;
+}
+.la {
+	color: #0F0;
+	font-size: 36px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+.la {
+	font-weight: bold;
+	color: #969;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.ka {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	color: #4F7777;
+}
+.ola {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 30px;
+	color: #630;
+	font-weight: bold;
+}
+.olaa {
+	text-align: center;
+}
+.maa {
+	font-size: 30px;
+	text-align: center;
+	color: #3CF;
+	font-weight: bold;
+}
+.ba {
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	color: #009;
+}
+.jh .jh {
+	font-size: 30px;
+	font-weight: bold;
+	color: #63C;
+}
+.ht {
+	font-size: 24px;
+
+
+
+}
+.sa {
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	color: #F66;
+}
+.mar {
+	text-align: center;
+	font-size: 30px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #F00;
+}
+.ku {
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #624AE8;
+}
+.as {
+	font-weight: bold;
+	text-align: center;
+}
+.as {
+	font-weight: bold;
+	text-align: center;
+	color: #F00;
+	font-size: 30px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.mo {
+	text-align: center;
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 30px;
+	color: #E95A1D;
+}
+body p {
+	font-weight: normal;
+}
+body p {
+	font-size: 16px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+}
+.yt {
+	text-align: center;
+	font-size: 30px;
+}
+.yt strong {
+	color: #069;
+}
+.ıoo {
+	font-weight: normal;
+	font-size: 18px;
+}
+.dfd {
+	text-align: center;
+}
+.yy {
+	color: #1B7ADA;
+	font-size: 30px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.di {
+	font-size: 30px;
+	color: #070;
+	text-align: center;
+}
+.dr {
+	font-weight: normal;
+}
+.dr {
+	font-size: 18px;
+}
+.dr {
+	font-size: 16px;
+}
+.se {
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 30px;
+	text-align: center;
+	color: #29E2F1;
+}
+.se {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.kr {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 30px;
+	text-align: center;
+	color: #800000;
+}
+.ko {
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 30px;
+	color: #000080;
+}
+.sa {
+	text-align: center;
+	color: #660;
+}
+.lo {
+	font-size: 24px;
+}
+.ak {
+	font-size: 30px;
+}
+.ak {
+	font-weight: bold;
+	font-family: "Courier New", Courier, monospace;
+	color: #30F;
+	text-align: center;
+}
+.yu {
+	text-align: left;
+}
+body p {
+	text-align: center;
+	font-size: 24px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #09C;
+}
+.yt {
+	text-align: center;
+}
+.yt {
+	text-align: center;
+}
+.yt {
+	text-align: left;
+}
+.yt {
+	text-align: center;
+}
+ty {
+	text-align: center;
+}
+.yt .yt {
+	text-align: left;
+}
+.ken {
+	text-align: center;
+	font-size: 30px;
+	color: #933;
+}
+.ken strong {
+	font-size: 30px;
+}
+.zam {
+	text-align: center;
+	font-size: 30px;
+	color: #55F;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+}
+.ba {
+	text-align: center;
+}
+.hl {
+	font-weight: bold;
+}
+.hl {
+	font-weight: normal;
+}
+.ata {
+	text-align: center;
+	font-size: 20px;
+	color: #FA0105;
+}
+.re {
+	text-align: center;
+}
+.re {
+	font-size: 24px;
+	color: #06C;
+}
+.ve {
+	font-weight: bold;
+}
+.ve {
+	font-weight: bold;
+}
+.te {
+	font-weight: bold;
+}
+.al {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 24px;
+	font-style: normal;
+	color: #33C;
+}
+.ornek-link {
+	font-size: 24px;
+}
+.ornek-link {
+	color: #390;
+}
+.ornek-link {
+
+}
+.ornek-link .ornek-link .ornek-link {
+	text-align: center;
+}
+.yt {
+	text-align: center;
+}
+.mu {
+	font-size: 22px;
+}
+.ata center .mu {
+	font-size: 20px;
+}
+.uy {
+	text-align: left;
+	color: #933;
+}
+.po {
+	font-size: 16px;
+}
+.gf {
+	font-size: 24px;
+}
+.gf {
+	color: #339;
+}
+.lo {
+	color: #96C;
+}
+.lo {
+	color: #008000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.lo {
+	font-size: 24px;
+}
+.uf {
+	font-weight: bold;
+	color: #69F;
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.re {
+	font-weight: normal;
+	font-family: "Courier New", Courier, monospace;
+}
+.az {
+	color: #000;
+}
+.uy {
+	color: #000;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: normal;
+}
+.bgg {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #FF8000;
+	font-weight: bold;
+}
+.ornek-link .ornek-link .ornek-link center {
+	color: #F00;
+}
+.ornek-link .ornek-link .ornek-link center {
+	color: #008000;
+}
+.tur {
+	color: #00F;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	text-align: left;
+}
+.tur {
+	color: #03F;
+}
+.sa {
+	font-size: 22px;
+	color: #6F6F00;
+
+}
+.kı {
+	font-size: 30px;
+}
+.yhh {
+	color: #000;
+}
+.yhh strong a {
+	font-size: 18px;
+}
+.yhh strong a {
+	font-size: 24px;
+}
+.yhh strong a {
+	font-size: 20px;
+}
+.saa {
+	color: #660033;
+}
+.gfdg {
+	color: #933;
+	font-size: 32px;
+	font-weight: bold;
+}
+.xsd {
+	text-align: left;
+
+}
+dsd {
+	text-align: left;
+}
+dsd {
+	text-align: left;
+}
+.ba {
+	text-align: center;
+}
+.re {
+	text-align: center;
+	color: #000;
+}
+.bay {
+	color: #000;
+}
+#bay {
+	color: #000;
+}
+
+.ki {
+	font-size: 30px;
+	color: #363;
+}
+.kii {
+
+}
+.kii {
+	font-size: 30px;
+}
+.kii {
+	color: #066;
+}
+.kii {
+	text-align: center;
+}
+.kjkl {
+	color: #000;
+}
+.kjkl {
+	text-align: left;
+	font-size: 24px;
+}
+.ok {
+	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 30px;
+	color: #966;
+}
+.hl .hl {
+	font-size: 20px;
+}
+.bbb {
+	font-size: 24px;
+}
+.bbb {
+
+}
+.bbb .bbb {
+	text-align: center;
+}
+.nuu {
+	font-size: 24px;
+}
+.si {
+	color: #903;
+}
+.hal {
+	font-size: 20px;
+}
+.hall {
+	font-size: 18px;
+}
+.ytty {
+	font-size: 18px;
+}
+.asss {
+	font-size: 18px;
+}
+.tyt {
+	color: #66C;
+	font-size: 24px;
+	text-align: center;
+}
+.tren {
+	text-align: center;
+	color: #30F;
+}
+.vdvd {
+	font-size: 18px;
+}
+.nuu {
+	font-size: 18px;
+}
+.nuu {
+	font-size: 18px;
+}
+.kuı {
+	font-size: 24px;
+}
+.xs {
+	font-size: 18px;
+	color: #000;
+}
+.orr {
+	color: #9C9;
+}
+.ess {
+	font-size: 24px;
+	color: #36F;
+	text-align: center;
+}
+
+.frfr {
+	color: #000;
+}
+frfr {
+	text-align: left;
+}
+.jh .reee {
+	text-align: left;
+}
+.jh .reee .re {
+	text-align: left;
+}
+.ger {
+	text-align: left;
+}
+.ger {
+	font-size: 18px;
+}
+.ger {
+	text-align: left;
+}
+.ger {
+	text-align: left;
+}
+.herr {
+	font-size: 18px;
+}
+.herr {
+	text-align: left;
+}
+tre {
+	font-size: 26px;
+}
+tre {
+	font-size: 24px;
+}
+.renm {
+	text-align: left;
+}
+.renm strong {
+	text-align: center;
+	font-size: 24px;
+	color: #C60;
+	font-weight: bold;
+}
+.hay {
+	font-size: 18px;
+}
+.mi center {
+	font-size: 24px;
+}
+.mii center {
+	font-size: 24px;
+}
+.ytyt {
+	font-size: 18px;
+}
+.ytyt {
+	text-align: left;
+}
+.al {
+	text-align: center;
+
+}
+
+cin {
+	text-align: center;
+}
+.al .al {
+.ger {
+	color: #000;
+}
+.gerp {
+	color: #000;
+}
+.herr {
+	color: #000;
+}
+.ger {
+	color: #000;
+}
+siyah {
+	font-size: 18px;
+	color: #000;
+}
+.yu {
+	color: #000;
+	font-size: 18px;
+}
+.siy {
+	color: #000;
+}
+.siy {
+	text-align: left;
+	font-size: 18px;
+
+}
+.orta {
+	text-align: center;
+	font-size: 20px;
+}
+#form1 p label {
+	color: #000;
+}
